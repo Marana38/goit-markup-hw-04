@@ -313,11 +313,7 @@ span {
 
 
 
-/* .team-list :hover {
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-        0px 1px 1px rgba(46, 47, 66, 0.16),
-        0px 2px 1px rgba(46, 47, 66, 0.08);
-} */
+
 
 .container-team {
     padding: 32px 0;
@@ -424,8 +420,6 @@ span {
 }
 
 
-/* .project-list :hover {
-    width: calc((100% - 48px) / 3); */
 
 
 .project-item {
@@ -572,14 +566,11 @@ span {
     align-items: center;
     justify-content: center;
 
-    /*
-    
-   
-
-    background-size: contain;
-    margin-bottom: 32px;
-    fill: transparent; */
 }
+
+
+
+
 
 .footer-icon-link:hover,
 .footer-icon-link:focus {
