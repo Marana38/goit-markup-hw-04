@@ -346,7 +346,7 @@ span {
 
 .team-icon-list {
     display: flex;
-
+    justify-content: center;
     gap: 24px;
 
 
