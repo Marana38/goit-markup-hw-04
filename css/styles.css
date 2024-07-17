@@ -357,8 +357,6 @@ span {
 .team-icon-item {
     width: 40px;
     height: 40px;
-
-
 }
 
 .team-icon-link {
@@ -373,10 +371,7 @@ span {
 
 }
 
-.team-icon-link :hover,
-.team-icon-link :focus {
-    background-color: #404bbf
-}
+
 
 
 .team-icon {
@@ -388,6 +383,14 @@ span {
     display: flex;
     width: 40px;
     height: 40px;
+}
+
+.team-icon-link :hover {
+    background-color: #404bbf
+}
+
+.team-icon-link :focus {
+    background-color: #404bbf
 }
 
 .team-images-img {}
@@ -431,7 +434,6 @@ span {
 
 
 
-.container-project-wrap {}
 
 .project-item:hover .project-imet-text {
     transform: translateY(0);
