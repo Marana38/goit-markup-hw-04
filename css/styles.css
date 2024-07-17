@@ -371,15 +371,12 @@ span {
 
 }
 
-.team-icon-link :hover,
-.team-icon-link :focus {
+.team-icon-link:hover,
+.team-icon-link:focus {
     background-color: #404bbf;
 }
 
-/* .team-icon-link :hover,
-.team-icon-link :focus {
-    background-color: #404bbf
-} */
+
 
 .team-icon {
     fill: #f4f4fd;
@@ -582,12 +579,12 @@ span {
 
 
 
-.footer-icon-item :hover {
+.footer-icon-item:hover {
     background-color: #31d0aa;
 
 }
 
-.footer-icon-link :focus {
+.footer-icon-link:focus {
     background-color: #31d0aa;
 }
 
