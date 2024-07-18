@@ -342,6 +342,7 @@ span {
 
 .container-icon {
     margin-bottom: 32px;
+
 }
 
 .team-icon-list {
@@ -353,11 +354,13 @@ span {
 
 }
 
-
 .team-icon-item {
+    display: flex;
     width: 40px;
     height: 40px;
 }
+
+
 
 .team-icon-link {
     width: 100%;
@@ -383,11 +386,7 @@ span {
 }
 
 
-.team-icon-item {
-    display: flex;
-    width: 40px;
-    height: 40px;
-}
+
 
 
 
@@ -438,7 +437,7 @@ span {
 }
 
 
-.project-item:focus {
+.project-item:hover {
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
         0px 1px 1px rgba(46, 47, 66, 0.16),
         0px 2px 1px rgba(46, 47, 66, 0.08);
